@@ -12,5 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzw-code)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=tzw-code)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tzw-code)
 
